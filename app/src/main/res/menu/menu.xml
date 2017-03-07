@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/m1"
+        android:icon="@drawable/a5w"
+        android:title="钱包"/>
+    <item
+        android:id="@+id/m2"
+        android:icon="@drawable/a8k"
+        android:title="分享"/>
+    <item
+        android:id="@+id/m3"
+        android:icon="@drawable/ads"
+        android:title="钱包"/>
+    <item
+        android:id="@+id/m4"
+        android:icon="@drawable/adv"
+        android:title="钱包"/>
+</menu>
